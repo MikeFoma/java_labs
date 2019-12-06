@@ -1,0 +1,6 @@
+Predator Cheetah
+Predator Lion
+Predator Wolf
+Omnivorous Bear
+Omnivorous Raccoon
+Herbivores Horse
